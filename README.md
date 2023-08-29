@@ -62,8 +62,8 @@
 </ol>
 <p>Как решал:</p>
 
-> <a href="https://testqa35.atlassian.net/wiki/spaces/MP/pages/33272/EX1+1](https://fogen.notion.site/fogen/3-Mobile-Charles-044a1edfbda44d10bd029acae08e005e">Ссылка на проект</a>
->  (ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)
+> <a href="https://heirbytest.atlassian.net/wiki/spaces/~6346e8172edf195c40aad306/pages/18317313">Ссылка на проект</a>
+>  
 
 <p>Выводы (итоги):<p>
 <ol>
