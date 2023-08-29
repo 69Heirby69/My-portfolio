@@ -20,7 +20,7 @@
 </ol>
 <p>Как решал:<p>
 
-> <a href="https://testqa35.atlassian.net/wiki/spaces/MP/pages/33272/EX1+1">Тестирование мобильного приложения</a>
+> <a href="https://testqa35.atlassian.net/wiki/spaces/MP/pages/33272/EX1+1">ССылка на проект</a>
    (ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)
 > <p> логин: dehico8286@fsouda.com </p>
 > <p> пароль: 16Jan2023 </p>
@@ -62,7 +62,7 @@
 </ol>
 <p>Как решал:</p>
 
-> <a href="https://heirbytest.atlassian.net/wiki/spaces/~6346e8172edf195c40aad306/pages/18317313">Ссылка на проект</a>
+> <a href="https://heirbytest.atlassian.net/wiki/spaces/~6346e8172edf195c40aad306/pages/18317313">Тестирование мобильного приложения</a>
 >  
 
 <p>Выводы (итоги):<p>
