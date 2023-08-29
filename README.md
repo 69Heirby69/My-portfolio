@@ -90,7 +90,7 @@
   <li>Итог №2</li>
 </ol>
 <br> 
-## Контактная информация
-- Email: name@email.com
-- LinkedIn: https://www.linkedin.com/in/username/
-- Личный сайт: https://www.username.com
+ Контактная информация
+- Email: skm_1127@rambler.ru
+- Phone: 8(916)8472023
+-Telegramm: @VvRush
