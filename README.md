@@ -74,4 +74,4 @@
  Контактная информация
 - Email: skm_1127@rambler.ru
 - Phone: 8(916)8472023
--Telegramm: @VvRush
+- Telegramm: @VvRush
