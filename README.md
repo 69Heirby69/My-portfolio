@@ -21,9 +21,8 @@
 <p>Как решал:<p>
 
 > <a href="https://heirbytest.atlassian.net/wiki/spaces/~6346e8172edf195c40aad306/pages/23527425">Веб-приложение</a>
-  
-   <li>login:heirby2013@mailinator.com</li>
-   <li>Pass:Wsxzaq12345!</li>
+  >  <li>login:heirby2013@mailinator.com</li>
+  >  <li>Pass:Wsxzaq12345!</li>
 
 <p>Выводы (итоги):<p>
 <ol>
@@ -44,8 +43,8 @@
 <p>Как решал:</p>
 
 >  <a href="https://heirbytest.atlassian.net/wiki/spaces/~6346e8172edf195c40aad306/pages/3735553/1+2">Веб-приложение </a>
-<li>login:heirby2013@mailinator.com</li>
-<li>Pass:Wsxzaq12345!</li>
+>  <li>login:heirby2013@mailinator.com</li>
+>  <li>Pass:Wsxzaq12345!</li>
 <p>Выводы (итоги):<p>
 <ol>
   <li>Итог: Имеет баги с серьёзностью S2</li>
